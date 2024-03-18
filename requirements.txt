@@ -1,0 +1,10 @@
+virtualenv
+pandas
+numpy
+tensorflow
+ipykernel
+transformers
+accelerate
+peft
+trl
+
