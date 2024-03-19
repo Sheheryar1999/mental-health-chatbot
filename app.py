@@ -1,5 +1,8 @@
 import streamlit as st
 
+
+# Must Use Model off of hugging face directly as I cant load into local
+
 def get_bot_response(user_input):
     return "This is a placeholder response from the chatbot."
 
